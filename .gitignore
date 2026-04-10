@@ -1,0 +1,10 @@
+.worktrees/
+.private-journal/
+.claude/
+.DS_Store
+node_modules/
+inspo
+triage/
+__pycache__/
+*.pyc
+.pytest_cache/

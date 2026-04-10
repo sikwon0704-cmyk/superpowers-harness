@@ -1,0 +1,20 @@
+{
+  "goal_id": "{{goal_id}}",
+  "user_goal": "{{user_goal}}",
+  "constraints": [],
+  "assumptions": [],
+  "acceptance_criteria": [
+    {
+      "id": "AC-1",
+      "text": "{{criterion_text}}",
+      "status": "unmet",
+      "evidence": []
+    }
+  ],
+  "required_evidence": [
+    "relevant test output",
+    "review verdict",
+    "qa verdict"
+  ],
+  "status": "draft"
+}
